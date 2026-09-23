@@ -19,7 +19,7 @@
   - **Nexus**: Enterprise AI knowledge engine built with Spring AI & RAG
   - **Electrotem**: E-commerce platform built with Spring Boot
   - **TaskAI**: Task management application powered by Google Gemini
-- 📫 How to reach me: [MY_EMAIL_OR_LINKEDIN]
+- 📫 How to reach me: [udaybarman1321@gmail.com](mailto:udaybarman1321@gmail.com) | [LinkedIn](https://www.linkedin.com/in/uday-barman-648787250/)
 
 ---
 
