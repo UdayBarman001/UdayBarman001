@@ -11,20 +11,15 @@
 
 ### 👨💻 About Me
 
-- 🔭 I’m currently working on **Nexus** (an enterprise AI knowledge engine) and **Electrotem** (e-commerce platform).
-- 🌱 I’m constantly exploring **Agentic Workflows**, **Prompt Engineering**, and **Spring AI**.
-- 👯 I’m open to collaborating on open-source **Java, Spring Boot, or React/React Native** projects.
-- 💬 Ask me about **Full-Stack Development, Database Architecture, and LeetCode problem-solving (250+ solved)**.
-- 📫 How to reach me: **[Insert Your Email or LinkedIn URL]**
-- ⚡ Fun fact: **I work as a farmer in Jabalpur while actively building software engineering projects! 🌾💻**
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UdayBarman001&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Uday's Trophies" />
-</div>
+- 🎓 B.Tech in Computer Science & Engineering (Expected Graduation: 2026)
+- 💼 SDE Intern at **Krishiverse** (June 2025 – Present) — working on React Native/Expo mobile apps for agricultural IoT products
+- 💼 Completed Web Development Internship at **Ouranos Robotics** (Jabalpur), June – Sept 2026
+- 🛠️ Backend focus in **Java & Spring Boot**, with frontend support in **React & React Native**
+- 🚀 Projects:
+  - **Nexus**: Enterprise AI knowledge engine built with Spring AI & RAG
+  - **Electrotem**: E-commerce platform built with Spring Boot
+  - **TaskAI**: Task management application powered by Google Gemini
+- 📫 How to reach me: [MY_EMAIL_OR_LINKEDIN]
 
 ---
 
@@ -56,10 +51,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UdayBarman001&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="UdayBarman001's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayBarman001&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Quote" />
 </div>
